@@ -20,8 +20,8 @@ How it works
 ------------
 
 nag\_alert creates/checks two files for every nagios alert received.
-* /tmpdir/email@address.com.sent (updated whenever we send a email)
-* /tmpdir/email@address.com.recv (updated whenever we receive a alert from nagios)
+    /tmpdir/email@address.com.sent (updated whenever we send a email)
+    /tmpdir/email@address.com.recv (updated whenever we receive a alert from nagios)
 
 (tmpdir/smsnumber.sent if it's a sms number)
 
