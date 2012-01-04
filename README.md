@@ -161,4 +161,4 @@ I'm open to any feedback / patches / suggestions.
 
 I'm still learning python so any python advice would be much appreciated.
 
-Shawn Sterling shawn@systemtemplar.com
+Shawn Sterling shawn@systemtemplar.org
